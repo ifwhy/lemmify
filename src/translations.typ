@@ -118,5 +118,15 @@
     "example": "例子",
     "definition": "定义",
     "proof": "证明"
-  )
+  ), 
+  "id": (
+      "theorem": "Teorema",
+      "lemma": "Lema",
+      "corollary": "Korolari",
+      "remark": "Catatan",
+      "proposition": "Proposisi",
+      "example": "Contoh",
+      "definition": "Definisi",
+      "proof": "Bukti"
+    )
 )
